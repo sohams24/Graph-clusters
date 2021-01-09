@@ -1,5 +1,5 @@
 # Graph-clusters
-In this project we find clusters of closely spaced points based on their eucleadean distances using a greedy algorithm. The points are represented in the form of a complete graph with vertices as the points and the edges represent the eucleadean distance between two points.
+In this project we find clusters of closely spaced points based on their euclidean distances using a greedy algorithm. The points are represented in the form of a complete graph with vertices as the points and the edges represent the euclidean distance between two points.
 The input graph is provided in the file "data.txt". The first line indicates total number of points. From the second line onwards, the first two values represent the two end points followed by the euclidean distance between the points.
 
 Instructions to run the project:
